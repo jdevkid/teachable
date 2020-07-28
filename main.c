@@ -4,7 +4,7 @@ int main()
 {
    int c, first, last, middle, n, search, array[100];
  
-   printf("Enter number of elements\n");
+   printf("Enter  the number of elements you wish\n");
    scanf("%d",&n);
  
    printf("Enter %d integers\n", n);
